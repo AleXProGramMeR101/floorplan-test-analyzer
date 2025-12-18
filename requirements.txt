@@ -1,0 +1,4 @@
+opencv-python-headless
+requests
+numpy
+pydantic-settings
